@@ -1,3 +1,3 @@
 # MovieFlix App
-Movie app to search imdb for your favourite movies
+React movie app to search imdb for your favourite movies
 
